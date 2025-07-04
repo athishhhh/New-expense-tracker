@@ -1,0 +1,22 @@
+{
+  "name": "backendd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cros": "^1.1.0",
+    "express": "^5.1.0",
+    "groq-sdk": "^0.23.0",
+    "lucide-react": "^0.512.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.10"
+  }
+}
