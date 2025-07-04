@@ -21,3 +21,6 @@ Built with a modular, clean, and responsive layout using **Tailwind CSS**, the i
 
 ### 🗂️ Local DBMS Integration  
 Zuno integrates with a **local database system**, enabling real-time access to user-specific financial data and delivering **personalized recommendations and insights**.
+
+
+![Zuno UI](./cover.png)
